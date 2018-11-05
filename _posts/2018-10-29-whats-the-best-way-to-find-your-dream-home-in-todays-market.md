@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Best Way to Find Your Dream Home in Today’s Market?
-date: 2018-10-29 19:41:53
+date: 2018-10-29 19:41:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 51iI-xZ0wA0
+youtube_code: ESwwqp_rlbs
 ---
 
 {% include youtube.html %}
@@ -36,6 +36,6 @@ Today I want to teach you how to find your dream home without losing your mind. 
 
 **6. Stick to your top three.** Once you’ve found the three properties that you love the most, stick to them. Then try and find out how you can position yourself to turn those top three to a top two, and a top one.
 
-**7. Stop looking.** After you’ve found that top three, don’t over-confuse the process by continuing your search. If you’re working with a great Realtor, they’ve already identified all the top properties.&nbsp;
+**7. Stop looking.** After you’ve found that top three, don’t over-confuse the process by continuing your search. If you’re working with a great Realtor, they’ve already identified all the top properties. 
 
 I hope this information is helpful to you in your home search. If you have any other questions in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
