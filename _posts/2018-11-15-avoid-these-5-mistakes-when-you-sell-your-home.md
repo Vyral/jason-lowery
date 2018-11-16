@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid These 5 Mistakes When You Sell Your Home
-date: 2018-11-15 21:05:38
+date: 2018-11-15 21:05:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gpHMs_zYwo8
+youtube_code: SYUG6Ywng7U
 ---
 
 {% include youtube.html %}
@@ -30,10 +30,8 @@ Here are five things you should definitely avoid when you’re trying to sell yo
 
 **3. Not listing your photos in order.** There should be a carousel-type feel so that buyers feel like they’re walking through the property as they look through the pictures. The order of your photos should be as follows: front of the home, entryway, living room, kitchen, bedrooms, and bathrooms.
 
-**4. **Using the t**erm “motivated seller.”** I oftentimes see agents use this phrase when describing a property online. This tells me as an agent that I have a deal for my potential buyer. Seeing the term “motivated seller” attached to a listing means that I can write an offer that’s less than list price. Never allow your agent to put this in the description of your home. That almost guarantees lowball offers.
+**4. \*\*Using the t**erm “motivated seller.”\*\* I oftentimes see agents use this phrase when describing a property online. This tells me as an agent that I have a deal for my potential buyer. Seeing the term “motivated seller” attached to a listing means that I can write an offer that’s less than list price. Never allow your agent to put this in the description of your home. That almost guarantees lowball offers.
 
 **5. Pricing your property incorrectly.** This is probably the most important thing of all. Overpricing will take a good 30% to 40% of buyers out of the picture right away. They won’t even give your home a chance. The rest will come and offer you less than your list price anyway. If you price correctly, you will have 80% to 90% of buyers visit your home, giving you the opportunity to show you have a great home and drive the price up where you’d like it to sell. Overpricing always works in the buyer’s favor.
 
-I hope this information helps. If you have any questions for me or if you’re thinking about buying or selling a home any time in the near future, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
-
-&nbsp;
+I hope this information helps. If you have any questions for me or if you’re thinking about buying or selling a home any time in the near future, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
